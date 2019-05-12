@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CaesarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-12T18:50:10" hostname="yvonne-HP-Laptop-15-bs0xx" time="0.001">
+<testsuite name="CaesarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-12T19:22:12" hostname="yvonne-HP-Laptop-15-bs0xx" time="0.001">
   <properties/>
   <testcase name="encrypt" classname="CaesarTest" time="0.001"/>
+  <testcase name="encrypt1" classname="CaesarTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

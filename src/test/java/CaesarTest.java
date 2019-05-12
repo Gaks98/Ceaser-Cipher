@@ -6,9 +6,17 @@ public class CaesarTest {
     public void encrypt() {
         //text
     }
-
     @Test
-    public static String encrypt(String plainText, int shift){
-        
-    }
+        public void encrypt1() {
+            String plainText= "";
+            int shift=0;
+        if (shift > 26){
+            shift = shift%26;
+        }
+        else if(shift<0){
+            shift = (shift%26) + 26;
+        }
+        }
+
+
 }
