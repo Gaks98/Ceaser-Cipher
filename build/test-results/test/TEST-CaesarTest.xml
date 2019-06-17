@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CaesarTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-24T14:21:45" hostname="yvonne-HP-Laptop-15-bs0xx" time="0.017">
+<testsuite name="CaesarTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-17T08:09:15" hostname="yvonne-HP-Laptop-15-bs0xx" time="0.013">
   <properties/>
-  <testcase name="decrypt_returnsString_name" classname="CaesarTest" time="0.016"/>
+  <testcase name="decrypt_returnsString_name" classname="CaesarTest" time="0.012"/>
   <testcase name="encrypt_returnsString_String" classname="CaesarTest" time="0.0"/>
   <testcase name="Caesar_instatiatesCorrectly_true" classname="CaesarTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
